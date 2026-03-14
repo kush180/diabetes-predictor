@@ -1,0 +1,4 @@
+flask          
+flask-cors     # allows React (port 5173) to call Flask (port 5000) without CORS errors
+numpy          
+scikit-learn   
