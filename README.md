@@ -15,26 +15,6 @@ A full-stack machine learning web application that predicts diabetes risk from p
 
 ---
 
-## 🗂️ Project Structure
-
-```
-diabetes-predictor/
-├── backend/
-│   ├── app.py                  # Flask REST API
-│   ├── requirements.txt        # Python dependencies
-│   ├── diabetes_model.pkl      # Trained model (not included)
-│   └── scaler.pkl              # Fitted scaler (not included)
-├── frontend/
-│   └── src/
-│       ├── App.jsx             # React UI
-│       └── App.css             # Styling
-├── notebook/
-│   └── diabetes_analysis.ipynb # Full ML pipeline notebook
-└── README.md
-```
-
----
-
 ## ⚙️ Tech Stack
 
 **Machine Learning**
